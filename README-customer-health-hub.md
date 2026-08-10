@@ -4,8 +4,7 @@ An internal web app that gives a SaaS team an at-a-glance **health score (0–10
 
 > Built during my summer 2026 internship at **Chezie**. This public repo is a **scrubbed demo** running on sample data — no real customer information, credentials, or company data.
 
-🔗 **Live demo:** [link to your Netlify demo]
-🖼️ **Screenshots:** see [`/screenshots`](./screenshots)
+🔗 **Live demo:** https://kjegbuna.github.io/Project-Customer-Health-Hub-/
 
 ---
 
@@ -31,6 +30,3 @@ Signals about customer health lived in separate tools — billing, support, and 
 - Automated a **0–10 health score** per customer with an explainable reason, replacing gut-feel assessments.
 - Locked all data to **company-domain accounts only** via database-level security.
 - *[Add any real numbers you can state — e.g., # of customers tracked, time saved in renewal prep, adoption by the team.]*
-
-## Notes on this demo
-The production version reads live from the company's database; this public version ships with a small **mock dataset** and no credentials, so it runs entirely in the browser and exposes nothing sensitive.
