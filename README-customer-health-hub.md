@@ -32,5 +32,3 @@ Signals about customer health lived in separate tools — billing, support, and 
 - Locked all data to **company-domain accounts only** via database-level security.
 - *[Add any real numbers you can state — e.g., # of customers tracked, time saved in renewal prep, adoption by the team.]*
 
-## Notes on this demo
-The production version reads live from the company's database; this public version ships with a small **mock dataset** and no credentials, so it runs entirely in the browser and exposes nothing sensitive.
