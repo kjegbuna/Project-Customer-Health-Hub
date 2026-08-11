@@ -4,7 +4,7 @@ An internal web app that gives a SaaS team an at-a-glance **health score (0–10
 
 > Built during my summer 2026 internship at **Chezie**. This public repo is a **scrubbed demo** running on sample data — no real customer information, credentials, or company data.
 
-🔗 **Live demo:** https://kjegbuna.github.io/Project-Customer-Health-Hub-/
+🔗 **Live demo:** https://kjegbuna.github.io/Project-Customer-Health-Hub/
 
 ---
 
