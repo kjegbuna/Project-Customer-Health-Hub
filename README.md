@@ -27,6 +27,7 @@ Signals about customer health lived in separate tools — billing, support, and 
 
 ## Results / impact
 - Unified **five separate data domains** into one health view.
-- Automated a **0–10 health score** per customer with an explainable reason, replacing gut-feel assessments.
+- Automated a **0–10 health score** for 29 customers with an explainable reason, replacing gut-feel assessments.
 - Locked all data to **company-domain accounts only** via database-level security.
-- *[Add any real numbers you can state — e.g., # of customers tracked, time saved in renewal prep, adoption by the team.]*
+- Removed the hand-maintained health tracker entirely by reading live data across 13 tables and 100,000+ records, keeping the view current with zero manual updates [replaced a [weekly] spreadsheet refresh].
+- Put every signal an owner needs (contract, 62 invoices, 325 support tickets, product usage, 211 contacts) on a single page, cutting renewal prep from [~10 minutes across tools] to one click.
